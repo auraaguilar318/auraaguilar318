@@ -6,6 +6,6 @@ Nice to meet you! I am Aura Aguilar-Roldan, a mexican undergraduate student in G
 - 🌱 I’m currently learning LDSC, GWAS-PW, MR, PRS analysis.
 - 📫 How to reach me:
   
-    **Personal E-mail**: auraaguilar318@gmail.com
+    **Personal e-mail**: auraaguilar318@gmail.com
   
-    **Institute E-mail**:aura.aguilarroldan@qimrberghofer.edu.au
+    **Institute e-mail**:aura.aguilarroldan@qimrberghofer.edu.au
