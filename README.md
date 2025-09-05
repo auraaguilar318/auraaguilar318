@@ -20,3 +20,5 @@ I am Aura Aguilar-Roldan, a Mexican undergraduate student in Genomic Sciences ([
     **Personal e-mail**: auraaguilar318@gmail.com
   
     **LinkedIn**: www.linkedin.com/in/auraaguilar318
+  
+    **ORCiD**: https://orcid.org/0009-0004-0771-9920
